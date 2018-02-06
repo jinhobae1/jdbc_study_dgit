@@ -8,6 +8,12 @@ public class Student {
 	private String email;
 	private Date dob;
 
+	
+	
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public int getStudId() {
 		return studId;
 	}
